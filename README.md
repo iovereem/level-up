@@ -5,8 +5,10 @@ Slides and example code used in the "Level Up! Your Scientific Coding" webinars.
 The example code is old, using Python 2.7.
 One way to run this code is in an isolated environment.
 For example,
-if you have [Anaconda](https://www.anaconda.com/distribution/) installed,
+if you have [Anaconda](https://www.anaconda.com/distribution/) installed, go to your level-up directory and
 create an environment with the file provided in this repo:
+
+    cd level-up
 
     conda env create --file=environment.yaml
 
